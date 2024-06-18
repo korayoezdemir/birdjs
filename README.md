@@ -1,10 +1,10 @@
-# jstwitterbot
+# birdjs
 
 This is a JavaScript Twitter bot project.
 
 ## Description
 
-The `jstwitterbot` project is designed to create a Twitter bot using JavaScript. It allows users to automate various tasks on Twitter, such as posting tweets, following users, and liking tweets.
+The `birdjs` project is designed to create a Twitter bot using JavaScript. It allows users to automate various tasks on Twitter, such as posting tweets, following users, and liking tweets.
 
 ## Installation
 
